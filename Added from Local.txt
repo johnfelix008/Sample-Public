@@ -7,3 +7,5 @@ New CHange
 Testing the Tag Command 
 
 Testing Rebase -- Added from Branch-2
+
+Testing Merge (Will be available in History)
